@@ -1,0 +1,16 @@
+while true do
+sendPacket(false, "action|setSkin\ncolor|1348237567",2) 
+sleep(150)
+sendPacket(false, "action|setSkin\ncolor|1685231359",2)
+sleep(150)
+sendPacket(false, "action|setSkin\ncolor|2190853119",2)
+sleep(150) 
+sendPacket(false, "action|setSkin\ncolor|2527912447",2) 
+sleep(150)
+sendPacket(false, "action|setSkin\ncolor|2864971775",2)
+sleep(150)
+sendPacket(false, "action|setSkin\ncolor|3033464831",2)
+sleep(150)
+sendPacket(false, "action|setSkin\ncolor|3370516479",2)
+sleep(150)
+end
