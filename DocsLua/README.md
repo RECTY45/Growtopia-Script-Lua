@@ -1,4 +1,4 @@
-latest release: teohook 1.3
+latest release: hook 1.3
 
 ## changelogs
 
