@@ -1,7 +1,3 @@
-# teohook
-
-download in discord: https://discord.gg/teohook
-
 latest release: teohook 1.3
 
 ## changelogs
